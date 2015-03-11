@@ -1,5 +1,5 @@
-Hunspell Fork
--------------
+Hunspell Distributed
+--------------------
 This fork of hunspell is specifically refactored to make passing around file-paths irrelvant, raw buffers are passed instead. Additionally, all extraneous tools have been removed. This allows hunspell to run on a distributed system much more easily.
 
 Some History
